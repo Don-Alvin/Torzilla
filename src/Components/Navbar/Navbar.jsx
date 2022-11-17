@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { images } from '../../Constants'
 import classes from './Navbar.module.css'
 
